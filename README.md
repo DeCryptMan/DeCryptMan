@@ -1,31 +1,32 @@
 # 🔐 DeCryptMan - Cryptography Expert & Security Researcher 🖥️💡
 
-Welcome to the **DeCryptMan** repository. I specialize in cryptographic research, reverse engineering, and cybersecurity tools. My work revolves around decrypting, securing, and analyzing encrypted data across multiple cryptographic protocols.
+Welcome to my profile. I specialize in cryptographic research, decryption techniques, and advanced cybersecurity practices. My work is focused on analyzing and breaking encryption schemes, reverse engineering, and developing tools for vulnerability research and secure communications.
 
 ---
 
-### 🛠️ Featured Projects
+### 🛠️ Core Expertise
 
-- **[DeCryptMan](https://github.com/yourusername/DeCryptMan)** - A comprehensive decryption toolkit supporting multiple encryption algorithms (AES, RSA, DES, and more). Designed for professionals in security analysis and cryptography.
-- **[StealthEncrypt](https://github.com/yourusername/StealthEncrypt)** - A sophisticated encryption system that integrates hidden channel communication techniques for secure data exchange.
-- **[CryptoAnalyzer](https://github.com/yourusername/CryptoAnalyzer)** - An advanced tool for analyzing cryptographic algorithms, vulnerabilities, and weak configurations in encryption protocols.
-- **[PenTestSuite](https://github.com/yourusername/PenTestSuite)** - A collection of penetration testing tools for identifying and exploiting vulnerabilities in network and application security.
-
----
-
-### 🔐 Skills & Expertise
-
-- **Cryptography**: RSA, AES, DES, Diffie-Hellman, ECC, Cryptanalysis, Hash Functions
-- **Languages**: Python, C++, JavaScript, Bash, Go
-- **Technologies**: Git, Docker, Kubernetes, CI/CD
-- **Security**: Penetration Testing, Exploit Development, Vulnerability Research, Reverse Engineering
-- **Tools**: Burp Suite, Wireshark, Metasploit, Ghidra, IDA Pro, Radare2
+- **Cryptography**: In-depth knowledge of encryption algorithms (AES, RSA, DES, ECC), cryptanalysis, and hashing techniques.
+- **Penetration Testing**: Conducting thorough security assessments to identify vulnerabilities and exploit weaknesses.
+- **Reverse Engineering**: Skilled in disassembling and analyzing binaries to understand and break cryptographic protections.
+- **Vulnerability Research**: Identifying flaws in cryptographic protocols and creating methods to exploit them.
+- **Ethical Hacking**: Engaging in responsible and authorized security testing to enhance system robustness.
 
 ---
 
-### 📊 GitHub Stats
+### 🔐 Key Skills
 
-![DeCryptMan GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+- **Programming Languages**: Python, C++, Bash, Go, Assembly
+- **Security Tools**: Ghidra, IDA Pro, Radare2, Burp Suite, Metasploit, Wireshark
+- **Cryptography Libraries**: OpenSSL, PyCryptodome, Crypto++
+- **Technologies**: Docker, Kubernetes, Git, CI/CD pipelines
+- **Network Security**: IPSEC, SSL/TLS, VPN, Firewalls, and more.
+
+---
+
+### 📊 GitHub Activity
+
+![DeCryptMan GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeCryptMan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
 
 ---
 
@@ -33,23 +34,22 @@ Welcome to the **DeCryptMan** repository. I specialize in cryptographic research
 
 - **LinkedIn**: [DeCryptMan](https://www.linkedin.com/in/decryptman)
 - **Twitter**: [@DeCryptMan](https://twitter.com/DeCryptMan)
-- **Discord**: [DeCryptMan Community](https://discord.gg/DeCryptMan)
 - **Email**: [decryptman@protonmail.com](mailto:decryptman@protonmail.com)
+- **PGP**: Available upon request for secure communications.
 
 ---
 
 ### ⚠️ Disclaimer
 
-The tools and scripts provided here are strictly for educational and research purposes. **DeCryptMan** does not support the illegal use of any software or techniques described. Always ensure that you have explicit permission to test or analyze systems.
+The tools and knowledge shared here are intended for educational and research purposes only. **DeCryptMan** strongly condemns the illegal use of hacking techniques. All actions performed using these tools should be conducted with explicit permission and under legal constraints. Unauthorized access to systems is prohibited by law.
 
 ---
 
-> "The best way to predict the future is to create it." — **DeCryptMan**
+> "True strength lies not in breaking encryption, but in understanding the foundation of trust and security." — **DeCryptMan**
 
 ---
 
 ### 📈 Activity Overview
 
-My contributions focus primarily on cryptography, ethical hacking, and vulnerability research. Feel free to explore my repositories, star the projects you find useful, and open issues if you encounter bugs or have suggestions.
+My focus is on pushing the boundaries of cryptographic analysis, security research, and ethical hacking. I am dedicated to discovering new vulnerabilities, creating solutions to mitigate risks, and educating others in the field of cybersecurity.
 
----
