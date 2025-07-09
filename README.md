@@ -34,7 +34,7 @@ Welcome to my profile. I specialize in cryptographic research, decryption techni
 
 - **LinkedIn**: [DeCryptMan](https://www.linkedin.com/in/decryptman)
 - **Twitter**: [@DeCryptMan](https://twitter.com/DeCryptMan)
-- **Email**: [decryptman@protonmail.com](mailto:decryptman@protonmail.com)
+- **Email**: [decryptmans@protonmail.com](mailto:decryptmans@protonmail.com)
 - **PGP**: Available upon request for secure communications.
 
 ---
