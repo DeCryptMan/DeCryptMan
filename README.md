@@ -1,4 +1,4 @@
-# 🔐 DeCryptMan - Cryptography Expert & Security Researcher 🖥️💡
+# DeCryptMan - Cryptography Expert & Security Researcher 
 
 Welcome to my profile. I specialize in cryptographic research, decryption techniques, and advanced cybersecurity practices. My work is focused on analyzing and breaking encryption schemes, reverse engineering, and developing tools for vulnerability research and secure communications.
 
