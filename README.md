@@ -27,6 +27,14 @@ Welcome to my profile. I specialize in cryptographic research, decryption techni
 ### 📊 GitHub Activity
 
 ![DeCryptMan GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeCryptMan&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
+<p align="center">
+  <a href="https://www.credly.com/badges/61491773-d125-41e6-a0c9-0f6abd84d6f1/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/61491773-d125-41e6-a0c9-0f6abd84d6f1/Cisco-Cybersecurity-Badge.png" width="160" height="160" alt="Cisco Cybersecurity Badge"/>
+  </a>
+  <br/>
+  <b>Cisco Certified Cybersecurity Badge</b>
+</p>
+
 
 ---
 
